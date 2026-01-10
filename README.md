@@ -1,4 +1,4 @@
-[![Deploy To Heroku)(https://www.herokucdn.com/deploy/button .svg)](https://heroku.com/deploy?template=https://github.com/CodeXBotz/File-Sharing-Bot)
+
 
 
 
@@ -65,8 +65,8 @@ We encourage all developers to contribute ideas, report bugs, and share improvem
 ### Installation
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
-<a href="https://youtu.be/LCrkRTMkmzE">
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+<a href="emplate=https://github.com/CodeXBotz/File-Sharing-Bot)">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
