@@ -1,7 +1,5 @@
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/vs7320653-sketch/File-Sharebot)
 
-
-
 # File-sharing-Bot
 
 
